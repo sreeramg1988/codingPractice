@@ -28,6 +28,6 @@ public class CheckPalindromeNumber {
             System.out.println("The entered number " + inputNumber + " is Palindrome");
         else
             System.out.println("The entered number " + inputNumber + " is not Palindrome");
-
+        scan.close();
     }
 }
