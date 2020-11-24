@@ -1,3 +1,5 @@
+package genericprograms;
+
 import java.util.Scanner;
 
 public class checkArmstrongNumber {
