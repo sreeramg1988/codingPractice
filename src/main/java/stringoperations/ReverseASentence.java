@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ReverseASentence {
 
-    
+
     static String reverseSentence(String inputString){
         String outputString = "";
 
